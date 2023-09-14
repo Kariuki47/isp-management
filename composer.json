@@ -1,0 +1,20 @@
+{
+    "require": {
+        "pear2/net_transmitter": "1.0.0b1",
+        "pear2/net_routeros": "*@beta",
+        "doctrine/instantiator": "^1.5",
+        "filp/whoops": "^2.15",
+        "mikey179/vfsstream": "^1.6",
+        "myclabs/deep-copy": "^1.11",
+        "phpdocumentor/reflection-docblock": "^5.3",
+        "phpdocumentor/type-resolver": "^1.7",
+        "phpunit/php-token-stream": "^4.0",
+        "phpunit/phpunit-mock-objects": "^1.2",
+        "nexmo/client": "^2.4"
+    },
+    "require-dev": {
+        "phpdocumentor/reflection-common": "^2.2",
+        "phpspec/prophecy": "^1.17",
+        "phpunit/phpunit": "^9.6"
+    }
+}
